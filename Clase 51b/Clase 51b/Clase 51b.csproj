@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Clase_51b</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Personal\Clases C#\cursoQuarkAcademy_ElementalC\Clase 51.cs" Link="Clase 51.cs" />
+  </ItemGroup>
+
+</Project>

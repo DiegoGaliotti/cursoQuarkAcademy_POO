@@ -1,0 +1,30 @@
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.exe
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.deps.json
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.runtimeconfig.json
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.dll
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.pdb
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.csproj.AssemblyReference.cache
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.AssemblyInfoInputs.cache
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.AssemblyInfo.cs
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.csproj.CoreCompileInputs.cache
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.dll
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\refint\Ej. El Soldado.dll
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.pdb
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.genruntimeconfig.cache
+C:\Users\dngaliot\source\repos\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\ref\Ej. El Soldado.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.exe
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.deps.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.runtimeconfig.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\bin\Debug\net6.0\Ej. El Soldado.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.csproj.AssemblyReference.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.AssemblyInfoInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.AssemblyInfo.cs
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.csproj.CoreCompileInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\refint\Ej. El Soldado.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\Ej. El Soldado.genruntimeconfig.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\cursoQuarkAcademy_POO\Ej. El Soldado\Ej. El Soldado\obj\Debug\net6.0\ref\Ej. El Soldado.dll
